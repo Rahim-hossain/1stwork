@@ -1,0 +1,59 @@
+body{
+    background-color: #ffe6e6;
+}
+
+#slider{
+    background-image: url(./slide2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#slider-content{
+    padding: 10%;
+}
+
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+#welcome{
+    text-align: center;
+    color: white;
+}
+
+#span01{
+    color: #6f1919;
+    font-style: italic;
+}
+
+#span02{
+    color: #CF9902;
+    font-style: italic;
+}
+
+p{
+    text-align: center;
+    margin: 0% 10% 2%;
+    color: white;
+   
+}
+
+#recipes{
+    text-align: center;
+    color: #6f1919;
+}
+
+iframe{
+    width: 450px;
+    margin: 10px;
+}
+#video-recipes{
+    display: flex;
+    flex-direction: row;
+}
+
