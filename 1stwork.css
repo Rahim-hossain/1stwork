@@ -57,3 +57,42 @@ iframe{
     flex-direction: row;
 }
 
+@media screen and (max-width:576px){
+    #video-recipes {
+        flex-direction:column;
+    }
+    }
+    
+th,td{
+   height: 30px;
+   width: 50px;
+   text-align: center;
+   border: 2px solid red;
+   background-color: aliceblue;
+   padding: 5px;
+   
+   
+}
+table{
+    border: 3px solid green;
+    padding: 5px;
+    border-spacing: 5px;
+}
+
+form{
+    width: 300px;
+}
+
+fieldset{
+    background-color: aquamarine;
+}
+
+footer{
+    color: #ffe6e6;
+    text-align: center;
+    margin-top: 20px;
+    height: 100px;
+    padding-top: 30px;
+    background-color: #6f1919;
+}
+
